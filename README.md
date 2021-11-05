@@ -1,5 +1,7 @@
 # react-admin-dashboard
 
+
+
 ``for dummy json server``
 npm install ``path /``
 
@@ -13,3 +15,7 @@ npm run dev
 
 
 !["preview"](https://github.com/ShravanMeena/react-admin-dashboard/blob/main/rn%20admin%20dashboard%20.png?raw=true)
+
+
+# Youtube tutorial
+[https://youtu.be/-mCHLZ9pL-g](https://youtu.be/-mCHLZ9pL-g)
