@@ -10,3 +10,6 @@ npm install ``path ./dashboard``
 
 ``run app``
 npm run dev
+
+
+!["preview"](https://github.com/ShravanMeena/react-admin-dashboard/blob/main/rn%20admin%20dashboard%20.png?raw=true)
